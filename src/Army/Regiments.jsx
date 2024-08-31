@@ -50,7 +50,9 @@ const props = [
     active:"Active From: ",
     center:"Regimental Centre: "
 }*/
+//this is forked changes 
 
+//new branch i made named anuj branch
 {
     "id": 6,
     name:"Jat Regiment",
